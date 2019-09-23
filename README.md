@@ -1,5 +1,7 @@
 # Instagram Mobile
 
+![Image01](other_files/screenshot_mobile.JPG) 
+
 Projeto desenvolvido na semana OmniStack 7 da Rocketseat utilizando React Native.
 
 ## Objetivos
@@ -22,8 +24,6 @@ cd instagram-mobile
 # Instale as dependências NPM
 npm install
 ```
-
-![Image01](other_files/screenshot_mobile.JPG) 
 
 ## Contribuições
 Pull requests são bem-vindos.
